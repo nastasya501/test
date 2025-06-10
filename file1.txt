@@ -1,4 +1,4 @@
-12345
+conflict line
 commit
 6789
 1998.
